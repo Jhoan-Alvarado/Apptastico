@@ -42,7 +42,7 @@ nav ul li a{
     padding: 0px 10px;
 }
 
-section{
+#phone{
     width: 100%;
     display: flex;
     justify-content: center;
@@ -114,5 +114,35 @@ padding: 15px 25px;
 border: 40px;
 
 }
+#brand{
+    width: 100%;
+    border-bottom: #8897a1 2px solid;
+    background-color: aliceblue;
+    
+}
 
+#brand ul{
+    display:flex;
+    width: 100%;
+    height: 10vh;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+#box-phone{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+#box-phone .uni{
+    width: 20%;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
         
