@@ -145,4 +145,18 @@ border: 40px;
     align-items: center;
     justify-content: space-around;
 }
+
+
+#projects .title {
+    display: flex;
+    gap :20px;
+    width: 100%;
+
+}
+#projects{
+
+    width: 80%;
+    display: flex;
+    
+}
         
